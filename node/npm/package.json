@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-prueba",
+  "version": "1.0.0",
+  "description": "Estoy probando como funciona node js.",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "prueba",
+    "probando",
+    "nodejs"
+  ],
+  "author": "Edwin Gonzalez",
+  "license": "ISC"
+}
